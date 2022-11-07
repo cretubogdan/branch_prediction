@@ -1,0 +1,4 @@
+rm bp.o
+g++ -std=c++11 bp.cpp -o bp.o
+./bp.o
+python3 bp.py
