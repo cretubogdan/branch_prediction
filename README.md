@@ -1,2 +1,2 @@
-# branch_prediction
+# Branch Prediction
 Small test to demonstrate branch prediction power
