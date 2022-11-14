@@ -1,0 +1,6 @@
+g++ -std=c++11 bp2.cpp -o bp2.o
+echo "Without -O3:"
+./bp2.o
+g++ -std=c++11 -O3 bp2.cpp -o bp2.o
+echo "With -O3"
+./bp2.o
