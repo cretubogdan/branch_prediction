@@ -11,6 +11,6 @@ Small test to demonstrate branch prediction power
 Without -O3:  
 Counted: 2147483647 odd numbers and: 2147483648 even numbers, in: 1068s with BP set to: False  
 Counted: 2147483647 odd numbers and: 2147483648 even numbers, in: 603s with BP set to: True  
-With -O3  
+With -O3:  
 Counted: 2147483647 odd numbers and: 2147483648 even numbers, in: 34s with BP set to: False  
 Counted: 2147483647 odd numbers and: 2147483648 even numbers, in: 0s with BP set to: True  
